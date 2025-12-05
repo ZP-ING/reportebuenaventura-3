@@ -1,7 +1,10 @@
 
-  # ReporteBuenaventura (Community)
+  # ReporteBuenaventura 
 
-  This is a code bundle for ReporteBuenaventura (Community). The original project is available at https://www.figma.com/design/c9SJlcw4ldg67zxp4LFETr/ReporteBuenaventura--Community-.
+Una plataforma de reporte ciudadanos hecho por 1 del pueblo para el pueblo 
+
+
+  https://reportebuenaventura-3.vercel.app/
 
   ## Running the code
 
